@@ -14,3 +14,4 @@ Under MIT license
 
 * Mouse Hand by : Joe Williamson @JoeCreates
 * Monsters Created by Stephen Challener (Redshrike), Bonsaiheldin (http://bonsaiheld.org)
+* Collision basead code by github.com/CartBlanche (Dominique Louis)

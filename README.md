@@ -1,6 +1,6 @@
 # XNA Monogame Pixel Collision
 
-Example how to do Pixel Collision with Animated Texture 2D
+Example how to do Pixel Collision (PerPixelCollision, PixelPerfectCollision) with Animated Texture 2D
 
 ![](https://media.giphy.com/media/9ryCqmXXuNjA3s3HEv/giphy.gif)
 
